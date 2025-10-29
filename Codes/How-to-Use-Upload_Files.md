@@ -9,3 +9,6 @@ First of all, you need to install a little things:
   - `pip install playwright`
   - `playwright install`
 
+## 2. The Code Structure
+
+
