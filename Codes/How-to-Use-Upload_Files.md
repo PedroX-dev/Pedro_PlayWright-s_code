@@ -15,6 +15,10 @@ We define the `main` function as `async def`, because this allows other function
   - `caminho_arquivo = os.path.abspath(r"C:\Users\pedro.lopes\Downloads\arquivo_testeX.txt")`
 Here, we put the variable "caminho_arquivo" (of curse, if you want, you can change the name), and use the function os.path.abspath, to return an absolute path.
 Also, you need to specify the name of the file you want to upload.
+But, don't worry, if the file doesn't exist, I put a `if`, to create the file in this case:
+`if not os.path.exists(caminho_arquivo):
+        with open(caminho_arquivo, "w", encoding="utf-8") as f:
+            f.write("Este é um arquivo de teste de upload via Playwright!")`
 
  
 
