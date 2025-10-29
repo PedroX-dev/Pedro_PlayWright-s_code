@@ -7,8 +7,9 @@ First of all, you need to install a little things:
   - Next, in your console, run:
   - `pip install playwright`
   - `playwright install`
+Next, we go to The Code Structure
 
-## 2. The Code Structure: The function main
+## 2. The function main
 We define the `main` function as `async def`, because this allows other functions to run (if necessary), without stopping the code, while waiting for operations,that might take some time. 
 - First line:
   - `caminho_arquivo = os.path.abspath(r"C:\Users\pedro.lopes\Downloads\arquivo_testeX.txt")`
