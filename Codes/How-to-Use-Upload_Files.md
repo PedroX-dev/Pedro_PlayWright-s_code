@@ -9,6 +9,8 @@ First of all, you need to install a little things:
   - `playwright install`
 
 ## 2. The Code Structure: The function main
+- First line:
+  - `    caminho_arquivo = os.path.abspath(r"C:\Users\pedro.lopes\Downloads\arquivo_testeX.txt")`
  
 
 
