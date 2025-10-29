@@ -10,5 +10,5 @@ First of all, you need to install a little things:
   - `playwright install`
 
 ## 2. The Code Structure
-`The function main`
+The function `main`
 
