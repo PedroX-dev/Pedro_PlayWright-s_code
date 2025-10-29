@@ -1,6 +1,5 @@
- # <p align= "center">
-  Here, I'll explain how to use the code: <a href="Upload_Files.py">Upload_Files.py</a> <br>
-</p>
+# Here, I'll explain how to use the code: <a href="Upload_Files.py">Upload_Files.py</a> <br>
+
 
 ## 1. Requirements
 First of all, you need to install a little things:
