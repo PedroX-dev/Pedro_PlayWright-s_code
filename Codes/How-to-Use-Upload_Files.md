@@ -1,4 +1,4 @@
-<p align= "center">
+ # <p align= "center">
   Here, I'll explain how to use the code: <a href="Upload_Files.py">Upload_Files.py</a> <br>
 </p>
 
@@ -10,6 +10,6 @@ First of all, you need to install a little things:
   - `playwright install`
 
 ## 2. The Code Structure
-# The function `main:`
+ The function `main:`
 
 
